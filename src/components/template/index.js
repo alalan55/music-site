@@ -1,0 +1,5 @@
+export {default as CapaTemplate} from './CapaTemplate.vue'
+export {default as AlbumTemplate} from './AlbumTemplate.vue'
+export {default as FaixaTemplate} from './FaixasTemplate.vue'
+export {default as BackgoundTemplate} from './Background.vue'
+export {default as SobreTemplate} from './SobreTemplate.vue'
