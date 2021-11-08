@@ -88,4 +88,11 @@ export default {};
       }
 
 }
+
+@media screen and (max-width: 600px){
+    .content{
+      padding: 0 1.5rem !important;
+    }
+
+}
 </style>
