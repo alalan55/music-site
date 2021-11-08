@@ -79,7 +79,7 @@ export default {};
         overflow: hidden !important;
 
         &:hover{
-            transform: scale(1.1);
+           // transform: scale(1.1);
         }
       }
       .descricoes {
@@ -139,6 +139,12 @@ export default {};
     padding: 0 1.5rem !important;
     .title span{
       font-size: 1.3rem !important;
+    }
+  }
+
+  .lp{
+    .img{
+      width: 100% !important;
     }
   }
 }
