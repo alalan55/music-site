@@ -42,4 +42,10 @@ export default {};
       }
   }
 }
+
+@media screen and (max-width: 600px){
+    .sobre{
+      padding: 1rem 1.5rem !important;
+    }
+}
 </style>

@@ -136,6 +136,7 @@ export default {};
 @media screen and (max-width: 650px){
   .faixas{
     text-align: center;
+    padding: 0 1.5rem !important;
     .title span{
       font-size: 1.3rem !important;
     }
