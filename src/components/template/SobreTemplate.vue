@@ -34,6 +34,7 @@ export default {};
     span {
       font-weight: 700;
       font-size: 1.7rem;
+      text-transform: uppercase;
     }
   }
   .descricao{
@@ -46,6 +47,7 @@ export default {};
 @media screen and (max-width: 600px){
     .sobre{
       padding: 1rem 1.5rem !important;
+      margin-top: 1rem !important;
     }
 }
 </style>
